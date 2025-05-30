@@ -16,7 +16,7 @@
 📫 Reach me at: [**kritishmohapatra06norisk@gmail.com**](mailto:kritishmohapatra06norisk@gmail.com)
 
 ---
-
+![Image](https://github.com/user-attachments/assets/b92c4bd9-ac42-4216-8f77-6d0d1444b563)
 ### 📊 GitHub Stats
 
 <p>
