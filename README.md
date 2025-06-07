@@ -21,7 +21,7 @@
 
 <p>
   <img height="174" src="https://github-readme-stats.vercel.app/api?username=kritishmohapatra&show_icons=true&hide=contribs&theme=github_dark&border_color=30363d" />
-  <img height="174" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kritishmohapatra&layout=compact&langs_count=6&theme=github_dark&border_color=30363d&size_weight=0.5&count_weight=0.5&hide=cs&v=2" />
+  <img height="174" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kritishmohapatra&langs_count=8&theme=github_dark&border_color=30363d&size_weight=0.5&hide=cs&layout=compact" />
 </p>
 
 ---
