@@ -8,7 +8,7 @@
 
 ### 🚀 About Me
 
-- 🎓 Second-year Electrical Science student at **OUTR**  
+- 🎓 Third-year Electrical Science student at **OUTR**  
 - 🧠 Currently diving into **Javascript, Django, Machine Learning**, and **Deep Learning**
 - 📸 Working on internet of things in **Micropython** 
 
