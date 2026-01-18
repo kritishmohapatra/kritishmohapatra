@@ -19,9 +19,24 @@
 ![Image](https://github.com/user-attachments/assets/b92c4bd9-ac42-4216-8f77-6d0d1444b563)
 ### 📊 GitHub Stats
 
-<p>
-  <img height="174" src="https://github-readme-stats.vercel.app/api?username=kritishmohapatra&show_icons=true&hide=contribs&theme=github_dark&border_color=30363d" />
-  <img height="174" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kritishmohapatra&langs_count=8&theme=github_dark&border_color=30363d&size_weight=0.5&hide=cs&layout=compact" />
+<p align="center">
+  <!-- GitHub Stats -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-one-bice.vercel.app/api?username=kritishmohapatra&show_icons=true&theme=tokyonight">
+    <img alt="GitHub Stats" src="https://github-readme-stats-one-bice.vercel.app/api?username=kritishmohapatra&show_icons=true&theme=default" />
+  </picture>
+  <br/>
+  <!-- Top Languages -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=kritishmohapatra&layout=compact&theme=tokyonight&langs_count=10">
+    <img alt="Top Languages" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=kritishmohapatra&layout=compact&theme=default" />
+  </picture>
+  <br/>
+  <!-- Streak Stats (This one is working) -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://nirzak-streak-stats.vercel.app/?user=kritishmohapatra&theme=dark&hide_border=false">
+    <img alt="GitHub Streak" src="https://nirzak-streak-stats.vercel.app/?user=kritishmohapatra&theme=default&hide_border=false" />
+  </picture>
 </p>
 
 ---
