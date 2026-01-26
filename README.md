@@ -1,16 +1,19 @@
 <h1 align="center">👋 Hey, I'm Kritish Mohapatra!</h1>
 
 <p align="center">
-  🚀  EE UNDERGRAD @ <strong>OUTR</strong>  | 💻 Python and IoT Developer | 📈 DSA Enthusiast | 🤖 Exploring AI/ML
+ 🚀 Electrical Engineering Undergraduate @ <strong>OUTR</strong>  | 💻 Python and IoT Developer | 📈 DSA Enthusiast | 🤖 Exploring AI/ML
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 🎓 Third-year Electrical Science student at **OUTR**  
-- 🧠 Currently diving into **Javascript, Django, Machine Learning**, and **Deep Learning**
-- 📸 Working on internet of things in **Micropython** 
+- 🎓 Third-year Electrical Engineering undergraduate at OUTR
+- 🔌 Passionate about IoT & Embedded Systems
+- 🧠 Working with ESP32, ESP8266, Raspberry Pi Pico
+- 🐍 Building projects using MicroPython & Python
+- 🤖 Currently learning Machine Learning & Deep Learning
+- 🌐 Exploring JavaScript & Django for IoT dashboards
 
 
 📫 Reach me at: [**kritishmohapatra06norisk@gmail.com**](mailto:kritishmohapatra06norisk@gmail.com)
