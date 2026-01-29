@@ -145,6 +145,9 @@ Turning ideas into working hardware 🚀
 
 ⚙️ **[Stepper Motor Control (A4988)](https://github.com/kritishmohapatra/100_Days_100_IoT_Projects/blob/main/Stepper_Motor_Control_using_ESP32_&_A4988_(MicroPython)/README.md)** –  Speed & direction-controlled stepper motor system.
 
+💡 **[Pico W Async LED Control](https://github.com/kritishmohapatra/100_Days_100_IoT_Projects/blob/main/Pico_W_Async_LED_Control_(MicroPython)/README.md)** – Async web-based LED control using uasyncio server and browser ON/OFF interface.
+
+
 
 
 ## 📦 MicroPython Libraries (Author & Maintainer)
