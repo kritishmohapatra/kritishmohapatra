@@ -147,6 +147,8 @@ Turning ideas into working hardware 🚀
 
 💡 **[Pico W Async LED Control](https://github.com/kritishmohapatra/100_Days_100_IoT_Projects/blob/main/Pico_W_Async_LED_Control_(MicroPython)/README.md)** – Async web-based LED control using uasyncio server and browser ON/OFF interface.
 
+💾 **[ESP32 EEPROM Simulation (MicroPython)](https://github.com/kritishmohapatra/100_Days_100_IoT_Projects/tree/main/EEPROM_Simulation_using_MicroPython_on_ESP32_(Wokwi))** – File-based EEPROM emulation with byte-level read/write and persistent string storage.
+
 
 
 
