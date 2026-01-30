@@ -149,6 +149,9 @@ Turning ideas into working hardware 🚀
 
 💾 **[ESP32 EEPROM Simulation (MicroPython)](https://github.com/kritishmohapatra/100_Days_100_IoT_Projects/tree/main/EEPROM_Simulation_using_MicroPython_on_ESP32_(Wokwi))** – File-based EEPROM emulation with byte-level read/write and persistent string storage.
 
+🌐 **[ESP32 DC Motor Web Speed Control (MicroPython)](https://github.com/kritishmohapatra/100_Days_100_IoT_Projects/blob/main/DC_Motor_Speed_Control_(Web_Slider))** – Web slider based real-time DC motor speed control using PWM and MicroPython.
+
+
 
 
 
