@@ -7,6 +7,8 @@
 - 🤖 **Currently learning Machine Learning & Deep Learning**
 - 🌐 **Exploring JavaScript & Django for IoT dashboards**
 
+![Profile Views](https://komarev.com/ghpvc/?username=kritishmohapatra&color=green)
+
 
 ![AssemblyScript](https://img.shields.io/badge/-AssemblyScript-000000?style=flat-square&logo=assemblyscript&logoColor=white)
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
