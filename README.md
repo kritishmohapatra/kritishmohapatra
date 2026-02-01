@@ -153,6 +153,9 @@ Turning ideas into working hardware 🚀
 
 🌐 **[ESP32 DC Motor Web Speed Control (MicroPython)](https://github.com/kritishmohapatra/100_Days_100_IoT_Projects/blob/main/DC_Motor_Speed_Control_(Web_Slider))** – Web slider based real-time DC motor speed control using PWM and MicroPython.
 
+🔥 **[Temperature Based LED Indicator (MicroPython)](https://github.com/kritishmohapatra/100_Days_100_IoT_Projects/blob/main/Temperature_Based_LED_Indicator_(MicroPython_ESP32)/README.md)** – Beginner-friendly ESP32 project that reads temperature data from a DHT22 sensor and visually indicates different temperature levels using LEDs.
+
+🧠 **[Flask LED Control using MicroPython](https://github.com/kritishmohapatra/100_Days_100_IoT_Projects/blob/main/Flask_Server_Based_LED_Control_using_MicroPython/README.md)** – Beginner-friendly IoT project where a Flask web server controls an LED on ESP32 or Raspberry Pi Pico W through HTTP polling using MicroPython.
 
 
 
