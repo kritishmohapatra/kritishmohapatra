@@ -161,6 +161,7 @@ Turning ideas into working hardware 🚀
 
 🧠 **[Flask LED Control using MicroPython](https://github.com/kritishmohapatra/100_Days_100_IoT_Projects/blob/main/Flask_Server_Based_LED_Control_using_MicroPython/README.md)** – Beginner-friendly IoT project where a Flask web server controls an LED on ESP32 or Raspberry Pi Pico W through HTTP polling using MicroPython.
 
+🍃 **[Smart_Cooling_System_using_ESP8266_DHT11_&_Relay](https://github.com/kritishmohapatra/100_Days_100_IoT_Projects/blob/main/Smart_Cooling_System_using_ESP8266_DHT11_&_Relay/README.md)** -Smart cooling system using esp and MicroPython
 
 
 
