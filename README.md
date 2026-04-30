@@ -13,6 +13,9 @@
     <img src="https://img.shields.io/badge/Sponsor-❤-pink?style=for-the-badge&logo=github&logoColor=white" alt="Sponsor">
   </a>
 </p>
+<a href="https://buymeacoffee.com/kritish">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150">
+</a>
 
 ![AssemblyScript](https://img.shields.io/badge/-AssemblyScript-000000?style=flat-square&logo=assemblyscript&logoColor=white)
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
