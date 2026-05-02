@@ -178,29 +178,41 @@ Ideal for counters, clocks, and numeric indicators on ESP8266, ESP32, and Raspbe
 A simple and extensible **MicroPython dashboard library** for visualizing sensor data and device states.  
 Designed for rapid IoT prototyping and embedded UI experiments.
 
+## 🔬 Featured Projects
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/kritishmohapatra/100_Days_100_IoT_Projects">
+        <img src="https://github-readme-stats-virid-five-71fhjz31cy.vercel.app/api/pin/?username=kritishmohapatra&repo=100_Days_100_IoT_Projects&theme=dark&title_color=16a34a&icon_color=16a34a&text_color=ffffff&bg_color=0d1117&hide_border=true" alt="100_Days_100_IoT_Projects"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/kritishmohapatra/micropidash">
+        <img src="https://github-readme-stats-virid-five-71fhjz31cy.vercel.app/api/pin/?username=kritishmohapatra&repo=micropidash&theme=dark&title_color=16a34a&icon_color=16a34a&text_color=ffffff&bg_color=0d1117&hide_border=true" alt="OpenClaw Security"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 
-## GitHub Activity
 
-<p align="center">
-  <!-- GitHub Stats -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-one-bice.vercel.app/api?username=kritishmohapatra&show_icons=true&theme=tokyonight">
-    <img alt="GitHub Stats" src="https://github-readme-stats-one-bice.vercel.app/api?username=kritishmohapatra&show_icons=true&theme=default" />
-  </picture>
-  <br/>
-  <!-- Top Languages -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=kritishmohapatra&layout=compact&theme=tokyonight&langs_count=10">
-    <img alt="Top Languages" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=kritishmohapatra&layout=compact&theme=default" />
-  </picture>
-  <br/>
-  <!-- Streak Stats (This one is working) -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://nirzak-streak-stats.vercel.app/?user=kritishmohapatra&theme=dark&hide_border=false">
-    <img alt="GitHub Streak" src="https://nirzak-streak-stats.vercel.app/?user=kritishmohapatra&theme=default&hide_border=false" />
-  </picture>
-</p>
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats-virid-five-71fhjz31cy.vercel.app/api?username=kritishmohapatra&show_icons=true&theme=dark&title_color=16a34a&icon_color=16a34a&bg_color=0d1117&count_private=true" alt="GitHub Stats" height="180" style="margin: 0 10px;"/>
+  
+  <img src="https://github-readme-stats-virid-five-71fhjz31cy.vercel.app/api/top-langs/?username=kritishmohapatra&layout=compact&theme=dark&title_color=16a34a&bg_color=0d1117&langs_count=10" alt="Top Languages" height="180" style="margin: 0 10px;"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=kritishmohapatra&theme=dark&background=0d1117&ring=16a34a&fire=16a34a&currStreakNum=16a34a&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak"/>
+</div>
+
+<br>
+
 
 ---
 
