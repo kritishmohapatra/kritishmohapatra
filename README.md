@@ -189,7 +189,7 @@ Designed for rapid IoT prototyping and embedded UI experiments.
     </td>
     <td align="center">
       <a href="https://github.com/kritishmohapatra/micropidash">
-        <img src="https://github-readme-stats-virid-five-71fhjz31cy.vercel.app/api/pin/?username=kritishmohapatra&repo=micropidash&theme=dark&title_color=16a34a&icon_color=16a34a&text_color=ffffff&bg_color=0d1117&hide_border=true" alt="OpenClaw Security"/>
+        <img src="https://github-readme-stats-virid-five-71fhjz31cy.vercel.app/api/pin/?username=kritishmohapatra&repo=micropidash&theme=dark&title_color=16a34a&icon_color=16a34a&text_color=ffffff&bg_color=0d1117&hide_border=true" alt="micropidash"/>
       </a>
     </td>
   </tr>
